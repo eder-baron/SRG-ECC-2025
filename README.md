@@ -1,2 +1,2 @@
-# SRG-ECC-2025
-Additional files for ECC 2025 
+# SRG-2025
+Additional files for the paper "Stability results for MIMO LTI systems via Scaled Relative Graphs"
